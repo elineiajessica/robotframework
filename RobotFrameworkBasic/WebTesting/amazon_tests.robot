@@ -11,10 +11,10 @@ Caso de teste 01 - Acesso ao Menu "Eletronicos"
     ...                E da categoria de Computadores e Informática
     [Tags]             menus
     Acessar a home page do site amazon.com.br
-#     Entrar no menu "Eletronicos"
-#     Verificar se o titulo da página fica "Eletronicos e Tecnologia | Amazon.com.br"
-#     Verificar se aparece a frase "Computadores e Informatica"
-#     Verificar se aparece a categoria "Computadores e Informatica"
+    Entrar no menu "Eletronicos"
+    Verificar se aparece a frase "Computadores e Informatica"
+    Verificar se o titulo da página fica "Eletrônicos e Tecnologia | Amazon.com.br"
+    Verificar se aparece a categoria "Computadores e Informática"
 
 # Caso de teste 02 - Pesquisa de teste de um Produto
 #     [Documentation]    Esse teste verifica a busca de um Produto
